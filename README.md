@@ -5,6 +5,7 @@ Introduction Welcome to the AI Therapy Companion App, a mobile application desig
 3.	User Input: Any additional information you provide through the app, such as text inputs or feedback.
 4.	Device Data: Information about your device, including device type, operating system, and unique device identifiers.
 5.	Usage Analytics: Data on how you interact with the app, which helps us improve our services.
+6.	Data Collection: We collect the type of therapy and the date of the session. This data is stored locally on your device.
 How Data is Used
 •	Data Processing: The transcribed text is processed to generate AI-driven responses using the OpenAI GPT-4o-mini API.
 •	Service Improvements: We analyze usage data to enhance app functionality and user experience.
