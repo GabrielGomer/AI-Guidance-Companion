@@ -20,6 +20,9 @@ Data Sharing and Disclosure
 •	Cloud Storage: Data may be stored on secure cloud servers to ensure availability and reliability.
 •	Legal Compliance: We may disclose your information if required by law or to protect our rights and the safety of others.
 
+Medical Claims:
+This app does not make any medical claims. It does not imply that it can replace professional medical advice or treatment. Users are encouraged to consult with qualified healthcare professionals for any medical concerns.
+
 Data Security Measures We implement robust security measures to protect your data from unauthorized access, including encryption, secure data transmission, and regular security audits. Data Retention and Deletion
 •	Retention: We retain your data only as long as necessary to fulfill the purposes outlined in this policy.
 •	Deletion: You have the right to request the deletion of your data at any time. Contact us using the information below to make such a request.
