@@ -3,9 +3,9 @@ Introduction Welcome to the AI Therapy Companion App, a mobile application desig
 
 Information Collection
 We collect the following types of information:
-1.	Audio Data: The app records user audio for the purpose of speech-to-text transcription.
-2.	Transcribed Text: The audio recordings are transcribed into text, which is used to generate AI-based responses.
-3.	User Input: Any additional information you provide through the app, such as text inputs or feedback.
+1.	Audio Data: The app records user audio for the purpose of speech-to-text transcription. The app does not store audio transcriptions.
+2.	Transcribed Text: The audio recordings are transcribed into text, which is used to generate AI-based responses. The app does not store text.
+3.	User Input: Any additional information you provide through the app, such as text inputs or feedback. The app does not store text.
 4.	Device Data: Information about your device, including device type, operating system, and unique device identifiers.
 5.	Usage Analytics: Data on how you interact with the app, which helps us improve our services.
 6.	Data Collection: We collect the type of therapy, date, and time of the session. This data is stored locally on your device.
