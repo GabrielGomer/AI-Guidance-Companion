@@ -1,3 +1,5 @@
+# AI Guidance Companion App
+
 Privacy Policy for AI Guidance Companion App
 Introduction Welcome to the AI Therapy Companion App, a mobile application designed to provide AI-driven therapeutic interactions. We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your data when you use our app.
 
